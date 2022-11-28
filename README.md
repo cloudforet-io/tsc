@@ -18,6 +18,8 @@ The current members of the Cloudforet are:
 
 | Name | Github | Term begins | Term ends | Affiliation |
 | ---- | ------ | ------------|-------------|-----------|
+| Choonho Son | choonho | 2022-11-01 | 2023-10-31 | Megazone Cloud |
+| Jongmin Kim | whdalsrnt | 2022-11-01 | 2023-10-31 | Megazone Cloud |
 
 TSC membership is open to Cloudforet project committers. Prior to each election, candidates must submit a self-nomination form.
 
