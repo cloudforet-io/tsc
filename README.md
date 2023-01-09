@@ -16,10 +16,16 @@ The Cloudforet maintains a public calendar for TSC meetings. These meetings are 
 
 The current members of the Cloudforet are:
 
-| Name | Github | Term begins | Term ends | Affiliation |
-| ---- | ------ | ------------|-------------|-----------|
-| Choonho Son | choonho | 2022-11-01 | 2023-10-31 | Megazone Cloud |
-| Jongmin Kim | whdalsrnt | 2022-11-01 | 2023-10-31 | Megazone Cloud |
+| Name | Github | Term begins | Term ends | Affiliation | Role        |
+| ---- | ------ | ------------|-------------|-----------| ----------- |
+| Choonho Son | choonho | 2022-11-01 | 2023-10-31 | Megazone Cloud | Project |
+| Jongmin Kim | whdalsrnt | 2022-11-01 | 2023-10-31 | Megazone Cloud | Backend, Plugin |
+| Jihyung Song | jihyungSong | 2022-11-01 | 2023-10-31 | Megazone Cloud | Backend, Plugin |
+| Wanjin Noh  | WANZARGEN | 2022-11-01 | 2023-10-31 | Megazone Cloud | Frontend |
+| Jenny Kim | dsict | 2022-11-01 | 2023-10-31 | Megazone Cloud | Design |
+| Bokyung Jang | jbokyung2 | 2022-11-01 | 2023-10-31 | Megazone Cloud | UX     |
+|              |           |            |            |                |        |
+
 
 TSC membership is open to Cloudforet project committers. Prior to each election, candidates must submit a self-nomination form.
 
