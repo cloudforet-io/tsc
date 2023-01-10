@@ -24,7 +24,8 @@ The current members of the Cloudforet are:
 | Wanjin Noh  | WANZARGEN | 2022-11-01 | 2023-10-31 | Megazone Cloud | Frontend |
 | Jenny Kim | dsict | 2022-11-01 | 2023-10-31 | Megazone Cloud | Design |
 | Bokyung Jang | jbokyung2 | 2022-11-01 | 2023-10-31 | Megazone Cloud | UX     |
-|              |           |            |            |                |        |
+| We want you  |           |            |            |                | Docs     |
+| We want you  |           |            |            |                | Community   |
 
 
 TSC membership is open to Cloudforet project committers. Prior to each election, candidates must submit a self-nomination form.
@@ -33,7 +34,5 @@ The voting process is described in the TSC charter.
 
 # Projects
 
-## Plugin Development Process
-
-This process describes official plugins which are maintained by Community or Company.
-
+This process describes how to maintain new core services or official plugins which are maintained by Community or Company.
+[process/README.md](Process)
