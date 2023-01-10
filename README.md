@@ -31,4 +31,9 @@ TSC membership is open to Cloudforet project committers. Prior to each election,
 
 The voting process is described in the TSC charter.
 
+# Projects
+
+## Plugin Development Process
+
+This process describes official plugins which are maintained by Community or Company.
 
