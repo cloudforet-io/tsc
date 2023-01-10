@@ -1,0 +1,88 @@
+name: Sandbox Plugin Project
+description: Apply for Cloudforet Sandbox for Plugin
+title: "[Sandbox] <Plugin Project Name>"
+labels: [New]
+body:
+- type: textarea
+  attributes:
+    label: Plugin contact emails
+    description: Provide the email address(es) of individuals who should be contacted regarding this plugin. If more than one email is provided, please comma separate them.
+    placeholder: Comma-separate multiple emails here
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Project Summary
+    description: Provide a very brief, single line summary of the project.
+    placeholder: One-line summary of the project
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Project Description
+    description: Provide a brief, 100-300 word description of the project that explains what it does and why its needed.
+    placeholder: Describe what it does and why it's needed.
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Product Introduction URL
+    description: Provide the URL of Product what you want to integrate.
+    placeholder: Add Product URL here
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Product API URL
+    description: Provide the URL of the Product API.
+    placeholder: Add Product API URL here
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional repos
+    description: Provide the URL any additional repos for this project if appropriate.
+    placeholder: Add additional repo URLs here
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Contributing or Sponsoring Org
+    description: Provide the URL of the project's contributing or sponsoring company/organization. If no such company/organization exists move on to the next question.
+    placeholder: Add sponsoring company or org URL here
+  validations:
+    required: false
+- type: checkboxes
+  id: ippolicy
+  attributes:
+    label: IP Policy
+    description: By submitting this issue, you understand that if accepted, the project will be required to follow the Cloudforet IP Policy located at https://github.com/cloudforet-io/TSC/blob/master/CHARTER.pdf
+    options:
+      - label: If the project is accepted, I agree the project will follow the Cloudforet IP Policy
+        required: true
+- type: textarea
+  attributes:
+    label: Why Cloudforet?
+    description:  Why do you want to contribute the project to the Cloudforet? What value does being part of the Cloudforet provide the project?
+    placeholder: The Cloudforet can provide the project with...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Benefit to the Landscape
+    description: How will adding this project benefit the Cloudforet landscape?
+    placeholder: This project benefits the landscape by...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Project Advisor
+    description: Please list any people who are part of Cloudforet leadership (TSC, etc.) who can endorse or answer questions about your project.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional information
+    description: Any additional information you would like the TOC to consider when evaluating this project?
+  validations:
+    required: false
