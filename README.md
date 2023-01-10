@@ -35,4 +35,4 @@ The voting process is described in the TSC charter.
 # Projects
 
 This process describes how to maintain new core services or official plugins which are maintained by Community or Company.
-[process/README.md](Process)
+[process/README.md](process/README.md)
