@@ -9,6 +9,8 @@ It also describes the Annual Review Process through which those changes will be 
 Project progression, movement form one stage to another, allows projects to participate at the level
 that is most appropriate fro them given where they are in their lifecycle.
 
+![Project Stages](https://github.com/cloudforet-io/tsc/blob/master/process/Cloudforet_project_process.png)
+
 # II. Stages - Definitions & Expectations
 
 Cloudforet projects have a maturity level of sandbox, incubating, or graduated. Archived is for projects no longer in active development. The maturity level is a signal by Cloudforet as to what sorts of enterprises should be adopting different projects. Projects increase their maturity by demonstrating their sustainability to Cloudforet’s Technical Steering Committee: that they have adoption, a healthy rate of changes, committers from multiple organizations, have adopted the Cloudforet Code of Conduct.
