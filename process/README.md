@@ -87,5 +87,5 @@ Projects that wish to move from Incubating to Graduation should open a PR confir
 
 Open source projects have a lifecycle and there are times that projects become inactive due to a variety of reasons. There are also cases where a project may no longer want to be supported by the TOC, or the TOC may no longer wish to recommend the use of a project.
 Archiving Criteria
-When voting on a proposal to archive a project, TOC members may wish to consider whether the project continues to meet the criteria for Cloudforet acceptance. The TOC may also look at activity levels in the project (https://all.devstats.cncf.io/d/53/projects-health-table?orgId=1), although it is important to note that there is a difference between a mature project that doesn't get much attention any more but is stable, versus a project that is inactive.
+When voting on a proposal to archive a project, TOC members may wish to consider whether the project continues to meet the criteria for Cloudforet acceptance.
 
