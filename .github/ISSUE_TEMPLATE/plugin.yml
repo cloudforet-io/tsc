@@ -1,6 +1,6 @@
-name: Sandbox Plugin Project
-description: Apply for Cloudforet Sandbox for Plugin
-title: "[Sandbox] <Plugin Project Name>"
+name: Proposal of Plugin Project
+description: Apply for Cloudforet Plugin
+title: "<Plugin Project Name>"
 labels: [New]
 body:
 - type: textarea
