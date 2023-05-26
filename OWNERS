@@ -1,0 +1,11 @@
+# See the OWNERS docs at https://github.com/cloudforet-io/tsc/blob/master/OWNERS.md
+
+approvers:
+  - choonho
+  - whdalsrnt
+
+reviewers:
+  - jihyungSong
+  - WANZARGEN
+  - dsict
+  - jbokyung2
