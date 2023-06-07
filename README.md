@@ -24,6 +24,8 @@ The current members of the Cloudforet are:
 | Wanjin Noh  | WANZARGEN | 2022-11-01 | 2023-10-31 | Megazone Cloud | Frontend |
 | Jenny Kim | dsict | 2022-11-01 | 2023-10-31 | Megazone Cloud | Design |
 | Bokyung Jang | jbokyung2 | 2022-11-01 | 2023-10-31 | Megazone Cloud | UX     |
+| Seungil Yang | aseora    | 2023-06-01 | 2024-05-31 | Megazone Cloud | Observability  |
+| 	Hyup Ko    | mz-ko     | 2023-06-01 | 2024-05-31 | Megazone Cloud | ITOps     |
 | We want you  |           |            |            |                | Docs     |
 
 
