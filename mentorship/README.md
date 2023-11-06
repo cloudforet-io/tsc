@@ -8,9 +8,10 @@ Cloudforet provides mentorship program in LFX platform.
 
 ### Week 1. Orientation and Fundamentals
 
+* [Introduction to mentorship program](https://mentorship.lfx.linuxfoundation.org/project/2906237a-5d0f-48b4-90a1-cb8ad0fd0d25)
 * [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfkmbIPuPc5AyN2lDcBCmhxjD2lt_W-YS_Llatxo40MfXSdxA/viewform?usp=sf_link)
-* Introduction to Cloudforet and mentoring program
-* Installation of Cloudforet with minikube
+* [Introduction to Cloudforet](https://docs.google.com/presentation/d/1iJvxHBB79xADKaHt2HfjDVSwd1m_COxiURx_M2Vo1uA/edit?usp=sharing)
+* [Installation of Cloudforet with minikube](https://cloudforet.io/docs/setup_operation/quick_install/)
 
 
 ## Week 2. Understanding of Cloud Computing & Kubernetes
@@ -50,6 +51,9 @@ Cloudforet provides mentorship program in LFX platform.
 * Wrapping up the internship program
 * Guidance on next steps
 
+# Mentorship Q&A Channel
+
+[Github Discussion #Mentorship](https://github.com/orgs/cloudforet-io/discussions/categories/mentorship)
 
 # History
 
