@@ -2,6 +2,10 @@
 
 Cloudforet provides mentorship program in LFX platform.
 
+| Title | Date |
+| ---   | ---  |
+| Cloudforet Plugin Development - UNPAID 2023 Mentorship program | 2023-11-27 ~ 2024-02-25 |
+
 # Mentorship Agenda
 
 ## Cloudforet Plugin Development
