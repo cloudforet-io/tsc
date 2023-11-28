@@ -21,7 +21,11 @@ Cloudforet provides mentorship program in LFX platform.
 ## Week 2. Understanding of Cloud Computing & Kubernetes
 
 * Fundamentals of cloud computing and Kubernetes
+  * [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
+  * [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
+  * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 * Introduction to CI/CD (github actions and helm)
+  * [An Introduction to Helm](https://youtu.be/Zzwq9FmZdsU)
 
 ## Week 3. Undertanding of Plugin Development
 
