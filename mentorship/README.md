@@ -10,7 +10,7 @@ Cloudforet provides mentorship program in LFX platform.
 
 ## Cloudforet Plugin Development
 
-### Week 1. Orientation and Fundamentals
+### Step 1. Orientation and Fundamentals
 
 * [Introduction to mentorship program](https://mentorship.lfx.linuxfoundation.org/project/2906237a-5d0f-48b4-90a1-cb8ad0fd0d25)
 * [Survey](https://docs.google.com/forms/d/e/1FAIpQLSfkmbIPuPc5AyN2lDcBCmhxjD2lt_W-YS_Llatxo40MfXSdxA/viewform?usp=sf_link)
@@ -18,7 +18,7 @@ Cloudforet provides mentorship program in LFX platform.
 * [Installation of Cloudforet with minikube](https://cloudforet.io/docs/setup_operation/quick_install/)
 
 
-## Week 2-3. Understanding of Cloud Computing & Kubernetes
+## Step 2. Understanding of Cloud Computing & Kubernetes
 
 * Fundamentals of cloud computing and Kubernetes
   * [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
@@ -27,32 +27,32 @@ Cloudforet provides mentorship program in LFX platform.
 * Introduction to CI/CD (github actions and helm)
   * [An Introduction to Helm](https://youtu.be/Zzwq9FmZdsU)
 
-## Week N. Undertanding of Plugin Development
+## Step 3. Undertanding of Plugin Development
 
 * Plugin architecture overview
 * Coding best practices and standards
 
-## Week N. Plugin Development Basic
+## Step 4. Plugin Development Basic
 
 * Creating a Hello World Plugin
 
-## Week N. Real-World Plugin Project (Part 1)
+## Step 5. Real-World Plugin Project (Part 1)
 
 * Debugging and Reporting a real-world plugin
 * Code Modification
 * Code Review and Merge
 
-## Week N. Real-World Plugin Project (Part 2)
+## Step 6. Real-World Plugin Project (Part 2)
 
 * Propose a real-world plugin project
 * Discuss project challenges and collaboration
 
-## Week N. Real-World Plugin Project (Part 3)
+## Step 7. Real-World Plugin Project (Part 3)
 
 * Propose a real-world plugin project
 * Discuss project challenges and collaboration
 
-## Week N. Program Evaluation and Wrap-up
+## Step 8. Program Evaluation and Wrap-up
 
 * Collecting feedback from interns
 * Evaluation of achievements and learnings
