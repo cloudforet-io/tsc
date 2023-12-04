@@ -18,7 +18,7 @@ Cloudforet provides mentorship program in LFX platform.
 * [Installation of Cloudforet with minikube](https://cloudforet.io/docs/setup_operation/quick_install/)
 
 
-## Week 2. Understanding of Cloud Computing & Kubernetes
+## Week 2-3. Understanding of Cloud Computing & Kubernetes
 
 * Fundamentals of cloud computing and Kubernetes
   * [Kubernetes Overview](https://kubernetes.io/docs/concepts/overview/)
@@ -27,32 +27,32 @@ Cloudforet provides mentorship program in LFX platform.
 * Introduction to CI/CD (github actions and helm)
   * [An Introduction to Helm](https://youtu.be/Zzwq9FmZdsU)
 
-## Week 3. Undertanding of Plugin Development
+## Week N. Undertanding of Plugin Development
 
 * Plugin architecture overview
 * Coding best practices and standards
 
-## Week 4. Plugin Development Basic
+## Week N. Plugin Development Basic
 
 * Creating a Hello World Plugin
 
-## Week 5. Real-World Plugin Project (Part 1)
+## Week N. Real-World Plugin Project (Part 1)
 
 * Debugging and Reporting a real-world plugin
 * Code Modification
 * Code Review and Merge
 
-## Week 6. Real-World Plugin Project (Part 2)
+## Week N. Real-World Plugin Project (Part 2)
 
 * Propose a real-world plugin project
 * Discuss project challenges and collaboration
 
-## Week 7. Real-World Plugin Project (Part 3)
+## Week N. Real-World Plugin Project (Part 3)
 
 * Propose a real-world plugin project
 * Discuss project challenges and collaboration
 
-## Week 8. Program Evaluation and Wrap-up
+## Week N. Program Evaluation and Wrap-up
 
 * Collecting feedback from interns
 * Evaluation of achievements and learnings
