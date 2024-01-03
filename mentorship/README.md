@@ -27,10 +27,15 @@ Cloudforet provides mentorship program in LFX platform.
 * Introduction to CI/CD (github actions and helm)
   * [An Introduction to Helm](https://youtu.be/Zzwq9FmZdsU)
 
-## Step 3. Undertanding of Plugin Development
+## Step 3. Undertanding of Protobuf & gRPC
 
-* Plugin architecture overview
-* Coding best practices and standards
+* [Introduction to Protocol Buffers](https://training.linuxfoundation.org/training/introduction-to-protocol-buffers-lfs145/)
+* What is gRPC?
+  * [What is gRPC? Protocol Buffers, Streaming, and Architecture Explained](https://www.freecodecamp.org/news/what-is-grpc-protocol-buffers-stream-architecture/)
+  * [Introduction to gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
+  * [Core concepts, architecture and lifecycle](https://grpc.io/docs/what-is-grpc/core-concepts/)
+  * [Python/Quick start](https://grpc.io/docs/languages/python/quickstart/)
+  * [Python/Basics tutorial](https://grpc.io/docs/languages/python/basics/)
 
 ## Step 4. Plugin Development Basic
 
