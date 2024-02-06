@@ -39,7 +39,15 @@ Cloudforet provides mentorship program in LFX platform.
 
 ## Step 4. Plugin Development Basic
 
-* Creating a Hello World Plugin
+* Install CloudCoret
+  * Create User
+  * Create API Token
+  * Understand spacectl CLI tool
+* Enable cost-analysis plugin
+  * Register plugin
+  * Enable plugin
+  * Sync cost-analysis data
+* https://github.com/orgs/cloudforet-io/discussions/139
 
 ## Step 5. Real-World Plugin Project (Part 1)
 
