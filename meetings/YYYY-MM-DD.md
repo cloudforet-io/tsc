@@ -1,11 +1,17 @@
-Cloudforet TSC Meeting
+Cloudforet Meeting (Governing Board)
 
 ### YYYY-MM-DD
-##### 9:00 AM PST to 10:00 AM PST
+##### Timezone
+
+| Timezone | Time  |
+| ---      | ---   |
+| UTC-0    | 07:00 AM ~ 08:00 AM |
+| PST      | 23:00 PM ~ 24:00 PM |
+| KST      | 16:00 PM ~ 17:00 PM |
 
 ##### Community Calendar
 
-[Here](https://calendar.google.com) is the public calendar for the Cloudforet TSC meetings.
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=MTdlYzU2MjFjNDlhN2Y3ZGFlMzc1NWJhM2EwNjhkZmNhNDA2NTY0OGMxYTM4ZGZmMWE3MWViZjlmMGIwZDU1NUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) is the public calendar for the Cloudforet shared event.
 
 ##### How to Join
 
