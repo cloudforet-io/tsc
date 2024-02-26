@@ -18,7 +18,7 @@ The current members of the Cloudforet are:
 
 | Name | Github | Term begins | Term ends | Affiliation | Role        |
 | ---- | ------ | ------------|-------------|-----------| ----------- |
-| Choonho Son | choonho | 2023-11-01 | 2024-10-31 | Megazone Cloud | Project |
+| Choonho Son | choonho | 2023-11-01 | 2024-10-31 | Korea Education ICT Network | Project |
 | Jongmin Kim | whdalsrnt | 2023-11-01 | 2024-10-31 | Megazone Cloud | Backend, Plugin |
 | Jihyung Song | jihyungSong | 2023-11-01 | 2024-10-31 | Partridge Systems | Backend, Plugin, Community |
 | Wanjin Noh  | WANZARGEN | 2023-11-01 | 2024-10-31 | Megazone Cloud | Frontend |
