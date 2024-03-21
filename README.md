@@ -12,21 +12,15 @@ Calendars and Meetings
 
 The Cloudforet maintains a public calendar for TSC meetings. These meetings are open for anyone to join.
 
-# Members
+# Governing Board
 
-The current members of the Cloudforet are:
+The current members of the Governing Board:
 
 | Name | Github | Term begins | Term ends | Affiliation | Role        |
 | ---- | ------ | ------------|-------------|-----------| ----------- |
-| Choonho Son | choonho | 2023-11-01 | 2024-10-31 | Korea Education ICT Network | Project |
-| Jongmin Kim | whdalsrnt | 2023-11-01 | 2024-10-31 | Megazone Cloud | Backend, Plugin |
-| Jihyung Song | jihyungSong | 2023-11-01 | 2024-10-31 | Partridge Systems | Backend, Plugin, Community |
-| Wanjin Noh  | WANZARGEN | 2023-11-01 | 2024-10-31 | Megazone Cloud | Frontend |
-| Jenny Kim | dsict | 2023-11-01 | 2024-10-31 | Megazone Cloud | Design |
-| Bokyung Jang | jbokyung2 | 2023-11-01 | 2024-10-31 | Megazone Cloud | UX     |
-| Seungil Yang | aseora    | 2023-06-01 | 2024-05-31 | Megazone Cloud | Observability  |
-| 	Hyup Ko    | mz-ko     | 2023-06-01 | 2024-05-31 | Megazone Cloud | ITOps     |
-| We want you  |           |            |            |                | Docs     |
+| Choonho Son | choonho | 2023-11-01 | 2024-10-31 | Korea Education ICT Network | Chair |
+| Jongmin Kim | whdalsrnt | 2023-11-01 | 2024-10-31 | Megazone Cloud | Technical Lead |
+| Jihyung Song | jihyungSong | 2023-11-01 | 2024-10-31 | Partridge Systems | Technical Lead |
 
 
 TSC membership is open to Cloudforet project committers. Prior to each election, candidates must submit a self-nomination form.
