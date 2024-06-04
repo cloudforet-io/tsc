@@ -10,7 +10,7 @@ Cloudforet provides mentorship program in LFX platform.
 
 ## Cloudforet Plugin Development
 
-### Step 1. Orientation and Fundamentals
+## Step 1. Orientation and Fundamentals
 
 * [Introduction to mentorship program](https://mentorship.lfx.linuxfoundation.org/project/450c99f1-edd7-49bc-8a3f-e27c0cd0377d)
 * [Survey](https://forms.gle/JkEQNfPXpTJ4G4oS8)
@@ -37,21 +37,30 @@ Cloudforet provides mentorship program in LFX platform.
   * [Python/Quick start](https://grpc.io/docs/languages/python/quickstart/)
   * [Python/Basics tutorial](https://grpc.io/docs/languages/python/basics/)
 
-## Step 4. Plugin Development Basic
+## Step 4. Introduction NHN Cloud
 
-* Design CloudCoret Plugin Skeleton Code
+* Overview NHN Cloud
+
+## Step 5. Introduction Cloudforet Architecture
+
+* Core architecture of Cloudforet
+* Plugin Architecture of Cloudforet
+
+## Step 6. Plugin Development Basic
+
+* Design Cloudforet Plugin Skeleton Code
   * Inventory Collector
   * Monitoring Metric
 * Implement First Resources
   * Server Resources
 
-## Step 5. Plugin Development Advanced
+## Step 7. Plugin Development Advanced
 
 * Debugging and Reporting a real-world plugin
 * Code Review and Merge
 * Integration Test
 
-## Step 6. Program Evaluation and Wrap-up
+## Step 8. Program Evaluation and Wrap-up
 
 * Collecting feedback from interns
 * Evaluation of achievements and learnings
