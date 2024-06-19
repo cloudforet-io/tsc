@@ -6,6 +6,16 @@ Cloudforet provides mentorship program in LFX platform.
 | ---   | ---  |
 | Cloudforet NHN cloud Plugin Development - UNPAID 2024 Mentorship program | 2024-06 ~ 2024-08 |
 
+![2024 Schedule](images/nhncloud_schedule_2024.png)
+
+| Task              | Period                  | Agenda       |
+|-------------------|-------------------------|-------------------|
+| Task #1 (1 week)  | 2024-06-03 ~ 2024-06-09 | Step 1 ~ Step 3  |
+| Task #2 (2 weeks) | 2024-06-10 ~ 2024-06-23 | Step 4 ~ Step 6  |
+| Task #3 (4 weeks) | 2024-06-24 ~ 2024-07-21 | Step 7 (round #1) |
+| Task #4 (4 weeks) | 2024-07-22 ~ 2024-08-18 | Step 7 (round #2) |
+| Task #5 (1 weeks) | 2024-08-19 ~ 2024-08-25 | Step 8            |
+
 # Mentorship Agenda
 
 ## Cloudforet Plugin Development
@@ -43,14 +53,18 @@ Cloudforet provides mentorship program in LFX platform.
 
 ## Step 5. Introduction Cloudforet Architecture
 
-* Core architecture of Cloudforet
-* Plugin Architecture of Cloudforet
+* [Core architecture of Cloudforet](https://cloudforet.io/docs/concepts/architecture/)
+* [Inventory Collector](https://cloudforet.io/docs/concepts/inventory/collector/)
 
 ## Step 6. Plugin Development Basic
 
 * Design Cloudforet Plugin Skeleton Code
+  * [Provider & Service Account](https://cloudforet.io/docs/concepts/identity/provider/)
+  * https://github.com/cloudforet-io/plugin-example-inven-collector
+  * [Example Provider](https://github.com/cloudforet-io/plugin-example-inven-collector/blob/master/managed_resource/provider/example.yaml)
+  * [Example Service Account](https://github.com/cloudforet-io/plugin-example-inven-collector/tree/master/managed_resource/schema)
+  * Register Plugin
   * Inventory Collector
-  * Monitoring Metric
 * Implement First Resources
   * Server Resources
 
