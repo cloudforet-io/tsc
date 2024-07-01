@@ -18,3 +18,4 @@ Cloudforet provides mentorship program in LFX platform.
 |-------------------------|----------|--------------------------------------------------|
 | Choonho Son             | https://www.linkedin.com/in/choonhoson/  | Mentorship Program, Plugin 101, NHN Cloud |
 | Jihyung Song | https://www.linkedin.com/in/jihyungsong/  | Naver Cloud                                      |
+| Gibeom Oh | https://www.linkedin.com/in/%EA%B8%B0%EB%B2%94-%EC%98%A4-95aaa6167/  | NHN Cloud                |
