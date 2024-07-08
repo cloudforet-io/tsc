@@ -9,6 +9,7 @@ on:
 jobs:
   add-ses-identity:
     runs-on: ubuntu-latest
+    environment: email
 
     steps:
       - name: Checkout repository
