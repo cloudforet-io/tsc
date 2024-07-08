@@ -1,0 +1,31 @@
+name: Add SES Identity
+
+on:
+  workflow_dispatch:
+    inputs:
+      email:
+        description: 'enter forwarding email address(ex. myname@gmail.com)'
+        required: true
+jobs:
+  add-ses-identity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_SES_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SES_SECRET_ACCESS_KEY }}
+          aws-region: us-west-2
+
+      - name: Install AWS CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y awscli
+
+      - name: Add SES Email Identity
+        run: |
+          aws sesv2 create-email-identity --email-identity ${{ github.event.inputs.email }} ----configuration-set-name my-first-configuration-set
