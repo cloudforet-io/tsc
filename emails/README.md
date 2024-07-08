@@ -2,6 +2,8 @@
 
 Cloudforet supports receiving only email services for contributors who want to receive emails only.
 
+![Cloudforet Email](./cloudforet_email_service.png)
+
 ## How to use
 
 1. Make an PR to the `cloudforet/tsc` repository.
