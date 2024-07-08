@@ -29,4 +29,4 @@ jobs:
 
       - name: Add SES Email Identity
         run: |
-          aws sesv2 create-email-identity --email-identity ${{ github.event.inputs.email }} ----configuration-set-name my-first-configuration-set
+          aws sesv2 create-email-identity --email-identity ${{ github.event.inputs.email }} --configuration-set-name my-first-configuration-set
