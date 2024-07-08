@@ -1,4 +1,4 @@
 ##############################################
 # Format: cloudforet email, forwarding email
 ##############################################
-choonho.son@cloudforet.io,choonho.son@gmail.com
+choonho.son@cloudforet.io,choonho.son@gmail.com,choonho.son@snu.ac.kr
