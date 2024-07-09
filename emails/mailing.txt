@@ -1,10 +1,11 @@
 ##############################################
 # Format: cloudforet email, forwarding emails(, separated)
-# 
-# - single forwarding email 
+#
+# - single forwarding email
 # choonho.son@cloudforet.io,choonho.son@gmail.com
-# 
+#
 # - multiple forwarding emails are separated by comma
 # choonho.son@cloudforet.io,choonho.son@gmail.com,choonho.son@snu.ac.kr
 ##############################################
 choonho.son@cloudforet.io,choonho.son@gmail.com
+admin@cloudforet.io,tjdah0853@gmail.com,pyt4105@gmail.com
